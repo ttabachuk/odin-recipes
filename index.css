@@ -1,0 +1,19 @@
+h1 {
+    color: royalblue;
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:link,
+a:visited,
+a:active,
+a:hover {
+    color: skyblue;
+    background-color: aliceblue;
+    text-decoration: none;
+}
+a:hover {
+    background-color: lightskyblue;
+    color: navy;
+}
